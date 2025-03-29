@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 ## Learn Next Auth (Version 5)
+=======
+
+## Learn Next Auth(Version 5)
+>>>>>>> d96acd7f42d2fad420a30e5b67a5fc82f7f877f7
 
 ## Getting Started
 
